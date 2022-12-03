@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart' as firebase_auth;
-import 'package:notes_app/auth.dart';
-import 'package:notes_app/screens/note_list.dart';
+import 'package:inote_application/auth.dart';
+import 'package:inote_application/screens/note_list.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class SignUpPage extends StatefulWidget {
