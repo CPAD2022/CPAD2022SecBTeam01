@@ -1,4 +1,4 @@
-import 'package:notes_app/utils/widgets.dart';
+import 'package:inote_application/utils/widgets.dart';
 import '../auth.dart';
 import 'auth_screen.dart';
 import 'view_note.dart';
