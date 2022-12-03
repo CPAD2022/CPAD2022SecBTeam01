@@ -1,85 +1,34 @@
 {
   "project_info": {
-    "project_number": "170391516362",
-    "project_id": "notes-app-test-d8b48",
-    "storage_bucket": "notes-app-test-d8b48.appspot.com"
+    "project_number": "385732414149",
+    "project_id": "finalnoteapp-fd12d",
+    "storage_bucket": "finalnoteapp-fd12d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:170391516362:android:889081def72258c110b033",
-        "android_client_info": {
-          "package_name": "com.bimsina.notes_app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "170391516362-gvcliqge80losmudp74v912jr62gipoe.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.bimsina.notes_app",
-            "certificate_hash": "fc9c12d3440d477c525c75c766602df6f051b150"
-          }
-        },
-        {
-          "client_id": "170391516362-db8akgktfd7e0h5504f3uenrjca7rb96.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBJBq-I-mFjWeit1lCjj7XwdrnJaBCOsgI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "170391516362-db8akgktfd7e0h5504f3uenrjca7rb96.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "170391516362-ohaijs73ctfhq1kun09qc0jiiot1tsrs.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.bimsina.notesapp"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:170391516362:android:9f1d5bd6e23c399710b033",
+        "mobilesdk_app_id": "1:385732414149:android:aa88bd2865c46592ef7eac",
         "android_client_info": {
           "package_name": "com.example.inote_application"
         }
       },
       "oauth_client": [
         {
-          "client_id": "170391516362-db8akgktfd7e0h5504f3uenrjca7rb96.apps.googleusercontent.com",
+          "client_id": "385732414149-eiftt7a69be9mb0j6t3g92ecupe1ldsa.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBJBq-I-mFjWeit1lCjj7XwdrnJaBCOsgI"
+          "current_key": "AIzaSyCdANcPpr9hoOXaDef2rnTKeIpgVjS5uu8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "170391516362-db8akgktfd7e0h5504f3uenrjca7rb96.apps.googleusercontent.com",
+              "client_id": "385732414149-eiftt7a69be9mb0j6t3g92ecupe1ldsa.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "170391516362-ohaijs73ctfhq1kun09qc0jiiot1tsrs.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.bimsina.notesapp"
-              }
             }
           ]
         }
